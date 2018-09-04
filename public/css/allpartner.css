@@ -1,0 +1,51 @@
+body {
+	padding-right: 0 !important;
+}
+
+tbody td span {
+	cursor: pointer;
+}
+
+.data_hover {
+	display: none;
+}
+
+.table-responsive table thead tr th,
+.table-responsive table tbody tr td {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+tbody td span {
+	cursor: pointer;
+}
+.table th {
+	text-transform: uppercase;
+}
+.dieuphoi {
+	background: #008080;
+	color: #FFFFFF
+}
+.bangke {
+	background: #3C8DBC;
+	color: #FFFFFF;
+}
+.chiphi {
+	background: #dd9052;
+	color: #FFFFFF;
+}
+.luong {
+	background: #8359a3;
+	color: #FFFFFF;
+}
+/* .slnhan {
+	position: relative
+} */
+/* .slnhan::after {
+	content: "KG";
+	position: absolute;
+	margin-left: 5px;
+}
+.slnhan.hid::after {
+	display: none;
+} */

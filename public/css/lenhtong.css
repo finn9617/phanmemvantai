@@ -1,0 +1,28 @@
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: .25em;
+  border: 1px solid #EDF0F2;
+  height: auto;
+}
+th {
+  padding: .25em;
+  border: 1px solid white;
+}
+
+tbody:nth-child(odd) {
+  background: #E9F6FC;
+}
+
+#tablelenhtong{
+	padding: 10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
